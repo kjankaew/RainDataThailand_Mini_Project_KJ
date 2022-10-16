@@ -23,8 +23,9 @@ Main research questions which I have set out since the biginning are:
 •	Is there a long-term trend of increasing rainfall? Could it be related to global warming (based on the well-known record of higher global sea surface temperature)?
 
 
-Although not all of the research questions I set out could be answer directly during this 3 weeks of research. 
+Although not all of the research questions I set out could be answered directly during this 3 weeks of mu investigation. 
 I think the data show positive correlation between years with high precipitation and la Nina.
+
 
 As a beginner in coding and data visualization I am struggling a lot with this mini project, but I am eager to learn. 
 So, feel free to help comment on how to improve my code and suggest data that I can use to improve solving my research questions.
