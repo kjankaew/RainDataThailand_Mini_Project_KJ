@@ -7,10 +7,10 @@ This mini project is part of DADS5001 course (Data Analytics and Data Science To
 The goal is to familiarize with python and matplotlib in manipulating and visualizing data.
 The timeline of this project is about 3 weeks. 
 
-I have a passion in physical sciences and lately I am taking an interest in global warming. 
-You can see my list of publication here https://scholar.google.co.th/citations?user=l6B4VrgAAAAJ&hl=en
+I have a passion in sciences, especially those related to Earth Sciences and natural hazards. Lately, I am taking an interest in global warming. 
+You can see my list of publication in this link https://scholar.google.co.th/citations?user=l6B4VrgAAAAJ&hl=en
 
-In this mini project use rainfall data from rain station across Thailand from 1987 to (August) 2022.
+In this mini project I use rainfall data from rain stations across Thailand and from 1987 to (August) 2022.
 
 Main research questions which I have set out since the biginning are: 
 
@@ -23,8 +23,8 @@ Main research questions which I have set out since the biginning are:
 •	Is there a long-term trend of increasing rainfall? Could it be related to global warming (based on the well-known record of higher global sea surface temperature)?
 
 
-Although not all of the research questions I set out could be answered directly during this 3 weeks of mu investigation. 
-I think the data show positive correlation between years with high precipitation and la Nina.
+Although not all of the research questions I set out could be answered directly during this 3 weeks period of my investigation. 
+I think the data show a positive correlation between years with high precipitation and la Nina (negative ONI).
 
 
 As a beginner in coding and data visualization I am struggling a lot with this mini project, but I am eager to learn. 
