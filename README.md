@@ -7,10 +7,20 @@ This mini project is part of DADS5001 course (Data Analytics and Data Science To
 The goal is to familiarize with python and matplotlib in manipulating and visualizing data.
 The timeline of this project is about 3 weeks. 
 
-I have a passion in sciences, especially those related to Earth Sciences and natural hazards. Lately, I am taking an interest in global warming. 
-You can see my list of publication in this link https://scholar.google.co.th/citations?user=l6B4VrgAAAAJ&hl=en
+I have a passion in sciences, especially those related to Earth Science and natural hazards. Lately, I take an interest in global warming. 
+You can see my list of publications in this link https://scholar.google.co.th/citations?user=l6B4VrgAAAAJ&hl=en
 
-In this mini project I use rainfall data from rain stations across Thailand and from 1987 to (August) 2022.
+In this mini project I use average monthly rainfall data from rain stations across Thailand, from 1987 to (August) 2022.
+My goal is to look at a long-term trend of rainfall in Thailand and analyse data to see if it is related to global warming.
+Therefore, I decide to request data from the Thai Meteorological Department (TMD) for 30+ years to make sure that the data covers serveral cycles of
+la Nina events. 
+
+La Nina refers to the periodic cooling of ocean surface temperatures in the central and east-central equatorial Pacific.  
+Typically, La Nina events occur every 3 to 5 years or so, but on occasion can occur over successive years. 
+La Nina represents the cool phase of the El Nino/Southern Oscillation (ENSO) cycle.   
+During a La Nina event, the changes in Pacific Ocean temperatures affect the patterns of tropical rainfall from Indonesia to the west coast of South America.  
+These changes in tropical rainfall patterns affect weather patterns throughout the world. 
+
 
 Main research questions which I have set out since the biginning are: 
 
@@ -21,6 +31,7 @@ Main research questions which I have set out since the biginning are:
 •	What is the la nina index of 2022 based on rainfall data (8 months data)?
 
 •	Is there a long-term trend of increasing rainfall? Could it be related to global warming (based on the well-known record of higher global sea surface temperature)?
+
 
 
 Although not all of the research questions I set out could be answered directly during this 3 weeks period of my investigation. 
