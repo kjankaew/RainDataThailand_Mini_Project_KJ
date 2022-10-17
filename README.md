@@ -4,7 +4,7 @@ Rain Data for Training
 My name is Kruawun Jankaew, a mature student pursuing an MSc degree in Data Analytics and Data Science.
 This is my very first project with python and matplotlib. I am still learning and there is still much to learn.
 This mini project is part of DADS5001 course (Data Analytics and Data Science Tools and Programing) at NIDA (National Instutute of Development Administration).
-The goal is to familiarize with python and matplotlib in manipulating and visualizing data.
+The mini-project's goal is to familiarize with python and matplotlib in manipulating and visualizing data.
 The timeline of this project is about 3 weeks. 
 
 I have a passion in sciences, especially those related to Earth Science and natural hazards. Lately, I take an interest in global warming. 
@@ -39,7 +39,7 @@ I think the data show a positive correlation between years with high precipitati
 
 
 As a beginner in coding and data visualization I am struggling a lot with this mini project, but I am eager to learn. 
-So, feel free to help comment on how to improve my code and suggest data that I can use to improve solving my research questions.
+So, feel free to help comment on how to improve my code and suggest data that I can use to help solving my research questions.
 
 
 Thanks for stopping by.
